@@ -1,0 +1,6 @@
+dataset_size: 43
+features:
+- year_clean
+- equitySold
+model_type: RandomForest + NeuralNetwork
+target: amountRealised

@@ -1,0 +1,44 @@
+id,serialNo,year,cpseDisinvested,disinvestedType,buyerName,equitySold,residualEquityGovt,amountRealised,year_clean
+1,1,1999_00,Modern Food Industries (India) Ltd.,Strategic sale,Hindustan Lever Ltd.,74.0,26,105.45,1999
+2,1,2000-01,Bharat Aluminium Company Ltd.,Strategic sale,Sterlite Industries (India) Ltd.,51.0,49,551.5,2000
+3,2,2000-01,Lagan Jute Machinery Company Ltd.,Strategic sale,Murlidhar Ratanlal Exports Ltd.,74.0,26,2.53,2000
+4,1,2001-02,HTL Ltd.,Strategic sale,Himachal Futuristic Communications Ltd.,74.0,26,55.0,2001
+5,2,2001-02,CMC Ltd.,Strategic sale,Tata Sons Ltd.,51.0,32.31,152.0,2001
+6,3 i),2001-02,India Tourism Development Corporation (ITDC) i) Hotel Hassan Ashok,Strategic sale,Malnad Hotels& Resorts(P) Ltd.,89.97,NULL,2.27,2001
+7,3 ii),2001-02,Hotel Bodhgaya Ashok,Strategic sale,Lotus Nikko Hotels,89.97,NULL,1.81,2001
+8,3 iii),2001-02,Hotel Madurai Ashok,Strategic sale,Sangu Chakra Hotels Pvt. Ltd.,89.97,NULL,4.98,2001
+9,3 iv),2001-02,"Temple Bay Ashok Beach Resort, Mamallapuram",Strategic sale,G.R. Thanga Maligai(P) Ltd.,89.97,NULL,6.13,2001
+10,3 v),2001-02,Hotel Agra Ashok,Strategic sale,Mohan Singh,89.97,NULL,3.61,2001
+11,3 vi),2001-02,"Laxmi Vilas Palace Hotel, Udaipur",Strategic sale,Bharat Hotels Ltd.,89.97,NULL,6.77,2001
+12,3 vii),2001-02,"Qutab Hotel, New Delhi",Strategic sale,Consortium of Sushil Gupta and Others,89.97,NULL,34.45,2001
+13,3 viii),2001-02,"Lodhi Hotel, New Delhi",Strategic sale,Silverlink Holdings Ltd. & Consortium,89.97,NULL,71.93,2001
+14,4,2001-02,IBP Ltd.,Strategic sale,Indian Oil Corpn.,33.58,26,1153.68,2001
+15,5,2001-02,Videsh Sanchar Nigam Ltd.,Strategic sale,Panatone Finvest Ltd. (a Tata Group Co.),25.0,27.97,1439.25,2001
+16,6,2001-02,Paradeep Phosphates Ltd.,Strategic sale,Zuari Maroc Phosphates Pvt Ltd.,74.0,26,151.7,2001
+17,7,2001-02,"HCI- Indo Hokke Hotels Ltd., Rajgir",Strategic sale,Inpac Travels (India) Pvt. Ltd.,100.0,NULL,6.51,2001
+18,1,2002-03,Hindustan Zinc Ltd.,Strategic sale,Sterlite Opportunities & Ventures Ltd.,26.0,49.92,445.0,2002
+19,2,2002-03,Indian Petrochemicals Corporation Ltd.,Strategic sale,Reliance Petro Investments Ltd,26.0,33.95,1490.84,2002
+20,3 i),2002-03,"India Tourism Development Corporation (ITDC) i) Hotel Airport Ashok, Kolkata",Strategic sale,Bright Enterprises (P) Ltd. & Consortium,89.97,NULL,19.39,2002
+21,3 ii),2002-03,Kovalam Ashok Beach Resort,Strategic sale,M Far Hotels Limited,89.97,NULL,40.38,2002
+22,3 iii),2002-03,Hotel Aurangabad Ashok,Strategic sale,Loksangam Hotels & Resorts Pvt. Ltd & Consortium,89.97,NULL,16.5,2002
+23,3 iv),2002-03,Hotel Manali Ashok,Strategic sale,Auto Impex Limited,89.97,NULL,3.66,2002
+24,3 v),2002-03,Hotel Khajuraho Ashok,Strategic sale,Bharat Hotels Ltd.,89.97,NULL,2.19,2002
+25,3 vi),2002-03,Hotel Varanasi Ashok,Strategic sale,Consortium of Ramnath Hotels(P) Ltd.,89.97,NULL,8.38,2002
+26,3 vii),2002-03,"Hotel Ranjit, New Delhi",Strategic sale,Consortium of Unison Hotels Ltd. & Formax Commercial Pvt. Ltd.,89.97,NULL,29.28,2002
+27,3 viii),2002-03,"Hotel Kanishka, New Delhi",Strategic sale,Nehru Place Hotels Ltd.,89.97,NULL,92.38,2002
+28,3 ix),2002-03,"Hotel Indraprastha, New Delhi",Strategic sale,Moral Trading & Investment Ltd.,89.97,NULL,43.38,2002
+29,3 x),2002-03,Chandigarh  project of Punjab Hotels Limited,Strategic sale,TAJGVK Hotels & Resorts Ltd.,100.0,NULL,17.27,2002
+30,4,2002-03,Modern Foods Industries (India) Ltd.,Strategic sale,Hindustan Lever Ltd.,25.995,NULL,44.07,2002
+31,1,2003-04,Hindustan Zinc Ltd.,Strategic sale,Sterlite Opportunities & Ventures Ltd.,18.92,29.53,323.88,2003
+32,2,2003-04,Jessop & Co. Ltd,Strategic sale,Indo Wagon Engineering Ltd.,72.0,27,18.18,2003
+33,NULL,2016-17,SUUTI,Strategic sale,NULL,0.0,0,10778.71,2016
+34,1,2017-18,SUUTI,Strategic sale,NULL,0.0,0,4153.65,2017
+35,2,2017-18,Oil & Natural Gas Corporation Ltd.,Strategic sale,HPCL - ONGC Deal,51.11,0,36915.0,2017
+36,3,2017-18,SUUTI,Strategic sale,NULL,0.0,0,1400.0,2017
+37,1,2018-19,HSCC (India) Ltd.,Strategic sale,NULL,100.0,0,285.0,2018
+38,2,2018-19,Dredging Corporation of India Ltd.,Strategic sale,NULL,73.44,0,1049.17,2018
+39,3,2018-19,Power Finance Corporation Limited,Strategic sale,PFC-REC Deal.,52.63,0,14499.99,2018
+40,4,2018-19,National Projects Constructions Corporation Ltd. (NPCC),Strategic sale,NULL,0.0,0,79.8,2018
+41,1,2019-20,THDC India Ltd.,Strategic sale,NULL,74.49,0,7500.0,2019
+42,2,2019-20,North Eastern Electric Power Corporation Ltd.,Strategic sale,NULL,100.0,0,4000.0,2019
+43,3,2019-20,Kamarajar Port Ltd.,Strategic sale,NULL,66.67,0,2383.0,2019

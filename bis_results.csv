@@ -1,0 +1,2 @@
+Model,R2,RMSE,Best_n_estimators,Best_max_depth
+BIS (BA+AIS),0.01992318279853278,11423.834322130298,388,24

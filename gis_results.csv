@@ -1,0 +1,2 @@
+Model,R2,RMSE,Best_n_estimators,Best_max_depth
+GIS (GA+AIS),0.016516099377806404,11443.67367961037,114,24
