@@ -1,4 +1,4 @@
-🏛 Strategic Disinvestment Revenue Prediction
+🏛 Strategic Disinvestment Revenue Prediction.
 Hybrid GIS Model (Genetic Algorithm + Artificial Immune System)
 📌 Project Overview
 
